@@ -11,7 +11,7 @@ Auto tap-tap/swap-swap
 
 Follow the link below to register
 
-[https://t.me/theYescoin_bot/Yescoin?startapp=u3NyZr](https://t.me/theYescoin_bot/Yescoin?startapp=u3NyZr)
+[https://t.me/theYescoin_bot/Yescoin?startapp=AAahZu](https://t.me/theYescoin_bot/Yescoin?startapp=AAahZu)
 
 # Preparation
 - Telegram desktop application
@@ -24,7 +24,7 @@ Follow the link below to register
 2. Clone this repository
 
 ```
-git clone https://github.com/AkasakaID/they3scoin.git
+git clone https://github.com/Alaihim-Arteta/they3scoin.git
 ```
 
 3. Go to the repository directory
